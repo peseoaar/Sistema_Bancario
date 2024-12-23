@@ -114,7 +114,5 @@ private static final String SENHA = "sua_senha";
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar problemas.
 
-## Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais informações.
 
 
