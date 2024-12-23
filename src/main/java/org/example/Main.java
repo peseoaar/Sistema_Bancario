@@ -9,15 +9,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         MenuPrincipal();
-        //CadastrarCliente();// pronto
-
-        //ContaCorrente ContaCorrente = new ContaCorrente();
-        //ContaCorrente.CriarConta();
-        //ContaCorrente.Depositar();
-        //ContaCorrente.Sacar();
-        //ContaCorrente.ExibirSaldo();
-
-
     }
 
     public static void MenuPrincipal(){
